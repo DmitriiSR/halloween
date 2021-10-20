@@ -16,10 +16,6 @@ a {
 	color: inherit;
 }
 
-img {
-	width: 100%;
-}
-
 li {
 	list-style: none;
 }
@@ -316,25 +312,25 @@ input {
 	margin-top: 48px;
 }
 
-.footer {
+.helloween-footer {
 	padding: 300px 100px 200px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 }
 
-.footer__column {
+.helloween-footer__column {
 	display: flex;
 	flex-direction: column;
 }
 
-.footer__span {
+.helloween-footer__span {
 	color: #c6007e;
 	font-size: 86px;
 	padding-left: 40px; 
 }
 
-.footer__title {
+.helloween-footer__title {
 	color: #c6007e;
 	font-family: 'Leosler', sans-serif;
 	font-size: 95px;
