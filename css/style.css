@@ -117,7 +117,7 @@ input {
 
 .sub-title__block {
 	position: absolute;
-	bottom: -90px;
+	bottom: -70px;
 	left: 0;
 	right: 0;
 	z-index: 2;
@@ -134,7 +134,7 @@ input {
    display: block;
    letter-spacing: 2px;
    margin: 0 auto;
-   font-size: 68px;
+   font-size: 51px;
 }
 
 .top-button {
